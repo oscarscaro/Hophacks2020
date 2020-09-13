@@ -1,0 +1,15 @@
+{
+  "site": {
+    "name": "CalGuard",
+    "style": {
+      "background": "linear-gradient(to bottom, rgba(255,255,255,0.15) 0%, rgba(0,0,0,0.15) 100%),radial-gradient(at top left, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.40) 120%) #989898"
+    },
+    "api": {
+        "map": "http://localhost:4000/api/map",
+        "db": "http://localhost:4000/api/db",
+        "incident": "/api/incident",
+        "ip": "http://ip-api.com/json/?fields=57577",
+        "zip": "https://us-zipcode.api.smartystreets.com/lookup?auth-id=21102174564513388&zipcode={zipcode}"
+    }
+  }
+}
