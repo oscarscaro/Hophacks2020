@@ -1,0 +1,8 @@
+
+Data/newdata_v2.parquet
+Data/ds_df.parquet
+notebooks/prediction_test.csv
+notebooks/prediction_test.dbf
+notebooks/prediction_test.shp
+notebooks/prediction_test.cpg
+notebooks/prediction_test.shx
